@@ -1,16 +1,45 @@
-# calculadora1
+### ⚠️Atenção video com demostração no fim do tutorial!
+# Calculadora_flutter
+calculadora feita com o flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+#### 1.0  navegue ate o seguinte arquivo lib\main.dart copie todo o codigo!
+#### 2.0  navegue ate o seguinte arquivo lib\buttons.dart.dart copie todo o codigo!
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### 3.0 navegue ate o seguinte arquivo pubspec.yaml.
+##### onde estiver da seguinte forma:
+```bash
+dependencies:
+  flutter:
+    sdk: flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+```
+##### Adicione o seguinte codigo:
+```bash
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  math_expressions: ^ 2.0.0
+  ....
+```
+
+
+# Assista ao video de demostração
+
+## [🎬Demontração](https://drive.google.com/file/d/1O4gp0XPftkYvz-P75vqE0ggaAUGWENH4/view?usp=drivesdk)
+
+
+# congratulations 😎
+![exemplo](https://gifburg.com/images/gifs/congratulations/gifs/0006.gif)
+
